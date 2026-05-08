@@ -1,0 +1,19 @@
+projectId: baeb94b7-6ec9-4d12-9333-767d7bdf3f80
+id: c7a9b651-f16a-4354-b024-ec65a74d425f
+results: ''
+critical: false
+dependsOn: []
+duration: 4185
+assignee: ''
+blockReason: ''
+missionId: 2043e570-a14a-4a48-8aa1-ca2ac186c01b
+createdAt: '2026-05-07T11:12:53.599Z'
+estimatedDuration: ''
+name: Design detector
+isBlocked: false
+revision: 0
+completedAt: '2026-05-07T16:12:49.180Z'
+startedAt: '2026-05-07T15:03:02.423Z'
+status: completed
+instructionsFreetext: ''
+instructionsVariables: []

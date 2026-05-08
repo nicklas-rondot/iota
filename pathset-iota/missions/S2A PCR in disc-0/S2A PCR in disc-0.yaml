@@ -1,0 +1,17 @@
+deadline: null
+id: 92c89c35-aa37-43f2-b61f-f25f240c5d0c
+projectId: baeb94b7-6ec9-4d12-9333-767d7bdf3f80
+description: ''
+type: standard
+dependsOn:
+  - 6c618c06-2e5c-4f51-ad78-c2c0e7be8105
+specs: []
+createdAt: '2026-05-07T11:16:44.769Z'
+priority: medium
+name: S2A PCR in disc
+revision: 0
+position:
+  'y': 274.7585395129317
+  x: 539.4811817279483
+status: pending
+completedAt: null

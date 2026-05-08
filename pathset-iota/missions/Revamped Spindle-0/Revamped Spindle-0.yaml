@@ -1,0 +1,16 @@
+dependsOn: []
+specs: []
+deadline: null
+description: ''
+projectId: baeb94b7-6ec9-4d12-9333-767d7bdf3f80
+id: 6e9a3256-abea-4cd6-9e68-a1a848f06e93
+type: standard
+revision: 0
+completedAt: null
+position:
+  'y': -24.546311682828033
+  x: 133.25279960592346
+status: pending
+priority: medium
+createdAt: '2026-05-07T11:17:27.339Z'
+name: Revamped Spindle

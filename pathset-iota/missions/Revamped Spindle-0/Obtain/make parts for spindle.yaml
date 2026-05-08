@@ -1,0 +1,22 @@
+dependsOn:
+  - b8579007-35e7-4507-b62e-115201fecf12
+duration: 53
+projectId: baeb94b7-6ec9-4d12-9333-767d7bdf3f80
+id: 2a3f21d2-030b-489e-9885-44d0a03ff921
+results: <p></p>
+critical: false
+revision: 0
+completedAt: null
+startedAt: null
+status: pending
+assignee: ''
+createdAt: '2026-05-07T12:07:45.071Z'
+missionId: 6e9a3256-abea-4cd6-9e68-a1a848f06e93
+blockReason: ''
+estimatedDuration: ''
+name: Obtain/make parts for spindle
+isBlocked: false
+instructionsFreetext: >-
+  <ul><li><p>Print with 25% strength from PLA Matte</p></li><li><p>Use Tree
+  supports</p></li></ul><p></p>
+instructionsVariables: []

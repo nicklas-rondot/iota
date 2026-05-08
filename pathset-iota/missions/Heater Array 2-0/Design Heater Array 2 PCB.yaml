@@ -1,0 +1,19 @@
+critical: false
+results: ''
+projectId: baeb94b7-6ec9-4d12-9333-767d7bdf3f80
+id: 8637c1c7-f213-4fc2-a6cc-ea1738ab5eb9
+duration: 0
+dependsOn: []
+estimatedDuration: ''
+name: Design Heater Array 2 PCB
+isBlocked: true
+assignee: ''
+blockReason: Heater Array project
+missionId: 039a6755-771b-4ba6-ab34-ae88f174038c
+createdAt: '2026-05-07T12:06:51.489Z'
+completedAt: null
+startedAt: null
+status: pending
+revision: 0
+instructionsFreetext: ''
+instructionsVariables: []

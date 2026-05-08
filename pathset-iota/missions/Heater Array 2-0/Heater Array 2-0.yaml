@@ -1,0 +1,16 @@
+deadline: null
+description: ''
+id: 039a6755-771b-4ba6-ab34-ae88f174038c
+projectId: baeb94b7-6ec9-4d12-9333-767d7bdf3f80
+type: standard
+dependsOn: []
+specs: []
+createdAt: '2026-05-07T11:15:28.128Z'
+priority: medium
+name: Heater Array 2
+revision: 0
+position:
+  'y': 274.89091832885777
+  x: 138.41804008468105
+status: pending
+completedAt: null

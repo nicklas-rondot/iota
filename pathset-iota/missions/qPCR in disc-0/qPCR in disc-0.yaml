@@ -1,0 +1,15 @@
+type: standard
+deadline: null
+description: ''
+projectId: baeb94b7-6ec9-4d12-9333-767d7bdf3f80
+id: 2e1aca86-099e-4d68-83c5-290437ef3e50
+specs: []
+dependsOn:
+  - 2043e570-a14a-4a48-8aa1-ca2ac186c01b
+name: qPCR in disc
+priority: medium
+createdAt: '2026-05-07T11:16:21.269Z'
+position: null
+status: pending
+completedAt: null
+revision: 0

@@ -1,0 +1,15 @@
+status: pending
+position: null
+completedAt: null
+revision: 0
+name: Functional Enclosure
+priority: medium
+createdAt: '2026-05-07T11:17:35.166Z'
+specs: []
+dependsOn:
+  - 6e9a3256-abea-4cd6-9e68-a1a848f06e93
+type: standard
+id: 2593fbae-7562-41b1-b3a5-5b763d021225
+projectId: baeb94b7-6ec9-4d12-9333-767d7bdf3f80
+description: ''
+deadline: null

@@ -1,0 +1,18 @@
+id: 88c746f0-b93b-4bb9-ae61-aee8536923a4
+projectId: baeb94b7-6ec9-4d12-9333-767d7bdf3f80
+description: ''
+deadline: null
+type: standard
+dependsOn:
+  - 2e1aca86-099e-4d68-83c5-290437ef3e50
+  - 92c89c35-aa37-43f2-b61f-f25f240c5d0c
+specs: []
+createdAt: '2026-05-07T11:17:04.698Z'
+priority: medium
+name: S2A qPCR in disc
+revision: 0
+status: pending
+position:
+  'y': 125.45713511527902
+  x: 741.0365119224238
+completedAt: null

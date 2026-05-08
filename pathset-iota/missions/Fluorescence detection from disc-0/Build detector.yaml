@@ -1,0 +1,20 @@
+assignee: ''
+createdAt: '2026-05-07T11:13:08.019Z'
+blockReason: Waiting for cables
+missionId: 2043e570-a14a-4a48-8aa1-ca2ac186c01b
+estimatedDuration: ''
+isBlocked: true
+name: Build detector
+revision: 0
+completedAt: null
+status: pending
+startedAt: null
+id: 9c594612-7e97-4e24-ac91-879c1577b44c
+projectId: baeb94b7-6ec9-4d12-9333-767d7bdf3f80
+results: ''
+critical: false
+dependsOn:
+  - c7a9b651-f16a-4354-b024-ec65a74d425f
+duration: 0
+instructionsFreetext: ''
+instructionsVariables: []

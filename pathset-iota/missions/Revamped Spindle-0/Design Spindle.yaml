@@ -1,0 +1,21 @@
+startedAt: '2026-05-07T13:29:07.159Z'
+status: completed
+completedAt: '2026-05-07T13:39:31.830Z'
+revision: 0
+name: Design Spindle
+isBlocked: false
+estimatedDuration: ''
+blockReason: ''
+missionId: 6e9a3256-abea-4cd6-9e68-a1a848f06e93
+createdAt: '2026-05-07T12:07:27.751Z'
+assignee: ''
+duration: 623
+dependsOn: []
+critical: false
+projectId: baeb94b7-6ec9-4d12-9333-767d7bdf3f80
+id: b8579007-35e7-4507-b62e-115201fecf12
+results: >-
+  <img src="../../media/43593ece-bed9-4fdf-9ce7-030a47689a6b.png"
+  width="567px"><p></p>
+instructionsFreetext: ''
+instructionsVariables: []

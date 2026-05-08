@@ -1,0 +1,21 @@
+dependsOn:
+  - 2a3f21d2-030b-489e-9885-44d0a03ff921
+duration: 0
+results: ''
+projectId: baeb94b7-6ec9-4d12-9333-767d7bdf3f80
+id: f6fb5e00-dd5f-4ea9-99a9-efd8ffc6624f
+critical: false
+revision: 0
+position:
+  'y': 138.98744519264952
+  x: 582.01693939539
+status: pending
+startedAt: null
+completedAt: null
+createdAt: '2026-05-07T12:08:07.270Z'
+missionId: 6e9a3256-abea-4cd6-9e68-a1a848f06e93
+assignee: ''
+name: Build spindle
+estimatedDuration: ''
+instructionsFreetext: ''
+instructionsVariables: []

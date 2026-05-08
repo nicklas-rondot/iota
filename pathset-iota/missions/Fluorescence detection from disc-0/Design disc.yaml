@@ -1,0 +1,19 @@
+name: Design disc
+isBlocked: true
+estimatedDuration: ''
+blockReason: Heater Array project
+missionId: 2043e570-a14a-4a48-8aa1-ca2ac186c01b
+createdAt: '2026-05-07T11:13:33.628Z'
+assignee: ''
+status: pending
+startedAt: null
+completedAt: null
+revision: 0
+critical: false
+results: ''
+projectId: baeb94b7-6ec9-4d12-9333-767d7bdf3f80
+id: 61b9d463-7bad-4cee-8969-b0fbef6a4962
+duration: 0
+dependsOn: []
+instructionsFreetext: ''
+instructionsVariables: []

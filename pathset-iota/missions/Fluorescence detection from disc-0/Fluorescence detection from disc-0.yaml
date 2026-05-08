@@ -1,0 +1,16 @@
+specs: []
+dependsOn: []
+type: standard
+id: 2043e570-a14a-4a48-8aa1-ca2ac186c01b
+projectId: baeb94b7-6ec9-4d12-9333-767d7bdf3f80
+description: ''
+deadline: null
+status: pending
+position:
+  'y': 125
+  x: 134.63787360859752
+completedAt: null
+revision: 0
+name: Fluorescence detection from disc
+createdAt: '2026-05-07T11:10:21.791Z'
+priority: medium

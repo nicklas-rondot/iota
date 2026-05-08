@@ -1,0 +1,18 @@
+dependsOn:
+  - 88c746f0-b93b-4bb9-ae61-aee8536923a4
+  - 2593fbae-7562-41b1-b3a5-5b763d021225
+specs: []
+id: 91554832-9ffd-43b5-9fbe-fcbc491571ea
+projectId: baeb94b7-6ec9-4d12-9333-767d7bdf3f80
+description: ''
+deadline: null
+type: standard
+revision: 0
+status: pending
+position:
+  'y': -24.758539512931705
+  x: 954.2360482912827
+completedAt: null
+createdAt: '2026-05-07T11:17:46.933Z'
+priority: medium
+name: Portable qPCR system

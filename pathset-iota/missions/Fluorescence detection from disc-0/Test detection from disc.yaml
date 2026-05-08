@@ -1,0 +1,20 @@
+completedAt: null
+status: pending
+startedAt: null
+revision: 0
+estimatedDuration: ''
+name: Test detection from disc
+assignee: ''
+missionId: 2043e570-a14a-4a48-8aa1-ca2ac186c01b
+createdAt: '2026-05-07T11:14:15.368Z'
+duration: 0
+dependsOn:
+  - 76a16c85-d772-42f0-abcb-b92d9e634d46
+  - 7c25cc61-b6d2-4e75-9d43-8a3bf22e7b3f
+  - 9c594612-7e97-4e24-ac91-879c1577b44c
+critical: false
+results: ''
+projectId: baeb94b7-6ec9-4d12-9333-767d7bdf3f80
+id: 5dc2cc9b-9d28-4224-b5bc-dfaf11c9a004
+instructionsFreetext: ''
+instructionsVariables: []

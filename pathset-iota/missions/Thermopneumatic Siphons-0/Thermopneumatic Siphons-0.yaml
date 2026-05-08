@@ -1,0 +1,15 @@
+deadline: null
+description: ''
+projectId: baeb94b7-6ec9-4d12-9333-767d7bdf3f80
+id: 6c618c06-2e5c-4f51-ad78-c2c0e7be8105
+type: standard
+dependsOn:
+  - 039a6755-771b-4ba6-ab34-ae88f174038c
+specs: []
+priority: medium
+createdAt: '2026-05-07T11:15:39.239Z'
+name: Thermopneumatic Siphons
+revision: 0
+position: null
+status: pending
+completedAt: null
